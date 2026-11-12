@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.local
+
+# rust
+/target
+*.rs.bk
+
+# protocol minimums
+*.pyc
+__pycache__/
+.DS_Store
+node_modules/
+.next/
+dist/
+build/
+*.log
+.vscode/
+
+# local agent/index caches
+.codebase-memory/
+.agentflow/
