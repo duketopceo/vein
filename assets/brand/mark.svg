@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="64" height="64" role="img" aria-label="vein"><title>vein</title><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 26 C11 21 13 18 15 15" stroke="#171A21" stroke-width="2.6"/>
+<path d="M15 15 C13 12 10 8 8 4" stroke="#171A21" stroke-width="2.6"/>
+<path d="M15 15 C18 11 21 7 23 4" stroke="#0E8A7D" stroke-width="2.6"/>
+<circle cx="15" cy="15" r="2.4" fill="#0E8A7D" stroke="none"/></g></svg>

@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/logo-dark.svg">
+    <img src="assets/brand/logo.svg" alt="vein" width="220">
+  </picture>
+</p>
+
 # vein
 
 > Global-market intelligence: search a company, commodity, facility, industry, or economic event and see how that part of the economy connects — with every claim, result, and explanation clickable down to its evidence.
